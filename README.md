@@ -1,5 +1,5 @@
 # Plan-de-calatorie-integrat-cu-Weather-Underground
-O aplicatie care permite planificarea unei calatorii integrate cu date meteorologice oferite de Weather Underground.
+Aceasta aplicatie, dezvoltata pentru disciplina Tehnologii Web, permite utilizatorilor sa planifice calatorii și sa acceseze informatii despre conditiile meteorologice pentru destinatiile selectate.
 Funcționalitati:
 - Adaugarea calatoriilor: - Utilizatorii pot adauga o noua calatorie, completand destinatia și data calatoriei.
 - Vizualizarea calatoriilor: - Utilizatorii pot vizualiza o lista cu toate calatoriile planificate și prognoza meteo aferenta.
